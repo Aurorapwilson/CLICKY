@@ -1,0 +1,62 @@
+ [
+  {
+    "id": 1,
+    "img":
+      "https://i.pinimg.com/564x/65/3a/de/653ade893344beeb70f150cb95eb56f6.jpg",
+   "clicked": false
+  },
+  {"id": 2,
+    "img":
+      "https://i.pinimg.com/564x/86/78/7d/86787d3bc350416026f0fb8fa88107f9.jpg",
+    "clicked": false
+  },
+  {"id": 3,
+    "img":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAsJdIuLz4_cdP5qrhpdte-QqGgqzxBM6pEoc0P6fbRnvmhtLbrQ",
+    "clicked": false
+  },
+  {"id": 4,
+    "img":
+      "http://2.bp.blogspot.com/-xpNVU-gcHzg/VGcMdphD52I/AAAAAAAAJbE/qN2XNjl8nG0/s1600/rock%2Blee.png",
+    "clicked": false
+  },
+  {"id": 5,
+    "img":
+      "https://i.pinimg.com/236x/e8/47/d5/e847d5174280b26293ac3b418aaf0610--naruto-drawings-how-draw.jpg",
+    "clicked": false
+  },
+  {"id": 6,
+    "img":
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dad49054022449.594a3d5cd30f1.jpg",
+    "clicked": false
+  },
+  {"id": 7,
+    "img":
+      "http://2.bp.blogspot.com/-3BciaDBVtms/VGcMmU--zpI/AAAAAAAAJbM/qNemGdWd5WU/s1600/neji.png",
+    "clicked": false
+  },
+  {"id": 8,
+    "img": "https://forevergamie.files.wordpress.com/2014/10/sakura.jpg",
+    "clicked": false
+  },
+  {"id": 9,
+    "img":
+      "https://vignette.wikia.nocookie.net/naruto/images/9/9c/Shino.png/revision/latest?cb=20160924021327",
+    "clicked": false
+  },
+  {"id": 10,
+    "img":
+      "https://vignette.wikia.nocookie.net/naruto-bleach/images/5/58/Itachi_Uchiha001.jpg/revision/latest?cb=20101219183908",
+    "clicked": false
+  },
+  {"id": 11,
+    "img":
+      "http://4.bp.blogspot.com/-LhMW4p7BPm4/TYz1ue8gGUI/AAAAAAAAAjI/fBglg9mvGP0/s1600/ino.jpg",
+    "clicked": false
+  },
+  {"id": 12,
+    "img":
+      "https://vignette.wikia.nocookie.net/naruto/images/1/14/Orochimaru_Infobox.png/revision/latest?cb=20150925223113",
+    "clicked": false
+  }
+]
